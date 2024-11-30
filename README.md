@@ -1,6 +1,8 @@
-<h1 align="center"> 📝  Bootcamp Microsoft Certification Challenge </h1>
-
 <div align="center">
+
+<img src="./images/logo.webp" alt="Bootcamp logo" width="200" >
+
+<h1> Bootcamp Microsoft Certification Challenge - AI-102 </h1>
 
 [![GitHub stars](https://img.shields.io/github/stars/biachristie/dio-bootcamp-microsoft-ai900.svg?style=social&label=Star&maxAge=2592000)](https://github.com/biachristie/dio-bootcamp-microsoft-ai102/stargazers)
 [![GitHub watchers](https://img.shields.io/github/watchers/biachristie/dio-bootcamp-microsoft-ai102.svg?style=social&label=Watch&maxAge=2592000)](https://github.com/biachristie/dio-bootcamp-microsoft-ai900/watchers)
@@ -17,11 +19,11 @@
 
 **Início**: 31/10/2024 | **Término**: 01/12/2024
 
-**Carga Horária**: 35 horas
+**Carga Horária**: 34 horas
 
 <br>
 
-## Atividades
+## 📝 Atividades
 <br>
 
 **1. Introdução à IA e IA no Azure**
@@ -54,7 +56,7 @@
 * Criando modelos de classificação personalizados na Azure ✔️
 * Modelos de reconhecimento de fala, síntese e tradução na Azure ✔️
 * Desafios de projeto: Crie um porrfólio vencedor ✔️
-* **Desafio**: [Tradutor de artigos técnicos com AzureAI]() ✔️
+* **Desafio**: [Tradutor de artigos técnicos com AzureAI](https://github.com/biachristie/dio-bootcamp-microsoft-ai102/tree/main/Desafio_02) ✔️
 * *Hands-on*: Desenvolvendo soluções de processamento de linguagem natural ✔️
 
 
@@ -83,7 +85,7 @@
 
 **6. Desenvolvendo soluções com a IA do Azure para informação de documentos**
 * Criando modelos de informação de documentos na Azure ✔️
-* **Desafio**: [Análise de documentos anti-fraude com Azure AI]() ✔️
+* **Desafio**: [Análise de documentos anti-fraude com Azure AI](https://github.com/biachristie/dio-bootcamp-microsoft-ai102/tree/main/Desafio_03/src) ✔️
 * *Hands-on*: criando soluções com IA do Azure para gestão de documentos ✔️
 * Jornada para se preparar para certificações AI-102 ✔️
 
@@ -91,19 +93,22 @@
 <br>
 
 **7. Simulado preparatório para o exame AI-102**
-* Simulado preparatório
+* Simulado preparatório ✔️
 
 <br>
 <br>
 
-**Mentorias**
-* *Live* de lançamento - *Bootcamp* Microsoft Certification Challenge AI-102 - Felipe Aguiar
-* Dicas MVP Microsoft para tirar sua certificação - Valéria Baptista
+**8. Mentorias**
+* *Live* de lançamento - *Bootcamp* Microsoft Certification Challenge AI-102 - Felipe Aguiar ✔️
+* Dicas MVP Microsoft para tirar sua certificação - Valéria Baptista ✔️
 
 <br>
 <br>
 
-**Conteúdo extra**
+
+## 📌 Conteúdo extra 
+<br>
+
 * ***E-book***: [Interpretable machine learning - a guide for making black box models explainable](https://christophm.github.io/interpretable-ml-book/index.html)
 * ***Playlist* da Microsoft Reactor**: [Treinamento para AI-102](https://www.youtube.com/watch?v=3szLoAMNIWQ&list=PLmsFUfdnGr3wDswd-EB2NWcO1Eymccrlp)
 * **Aula de revisão do John Savill**: [AI-102 Study Cram - Azure AI Engineer Associate Certification](https://www.youtube.com/watch?v=I7fdWafTcPY)
